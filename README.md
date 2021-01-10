@@ -23,7 +23,7 @@ I'm Sheela, a DevOps Engineer 🚀 from India, living in Canada and work for a T
 
 🌱 I’m currently fascinated by and learning Serverless frameworks
 
-💬 Ask me about ... AWS, Cloud Migration, Security on Cloud, Making your own sourdough starter, ingredients to the best pizza dough in town
+💬 Ask me about ... AWS, Cloud Migration, Security on Cloud, Making your own sourdough starter, ingredients to the best homemade pizza dough in town
 
 😄 Pronouns: She/her
 
