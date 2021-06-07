@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-I'm Sheela, a DevOps Engineer 🚀 from India, living in Canada and work for a Toronto Start Up. Beside's technology, I am a big foodie and love to cook.
+I'm Sheela, a DevOps Engineer living in Canada and work for a Start Up. Beside's technology, I am a big foodie and love to cook.
 
 🔭 I’m currently working on a secret project. I will post more details once it is ready to be unveiled.. :wink:
 
